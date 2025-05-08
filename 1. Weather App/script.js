@@ -1,7 +1,7 @@
 // This is my code
 
 // alert("hello, World!");
-// const apiKey = "05dc1c8c10a51abfc67faa954ada7775";
+// const apiKey = "";
 // const apiUrl = "https://api.openweathermap.org/data/2.5/weather?q=Delhi&units=metric";
 
 // async function checkWeather(){
@@ -15,7 +15,7 @@
 //     document.querySelector(".wind").innerHTML=data.wind.speed;
 // }
 
-//This is improved version down below
+//This is an improved version down below
 
 // const apiKey = "05dc1c8c10a51abfc67faa954ada7775";
 // const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
@@ -44,7 +44,7 @@
 //     checkWeather(searchBox.value);
 // })
 
-const apiKey = "05dc1c8c10a51abfc67faa954ada7775";
+const apiKey = "";
 const apiUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
