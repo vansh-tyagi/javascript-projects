@@ -11,7 +11,7 @@ A sleek and simple weather application built using HTML, CSS, and JavaScript. It
 
 ## 📸 Preview
 
-![App Screenshot](./Images/screenshot_2.png)
+![App Screenshot](./Images/screenshot2.png)
 
 ## 🛠️ Technologies Used
 
