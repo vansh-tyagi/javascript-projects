@@ -11,7 +11,7 @@ A sleek and simple weather application built using HTML, CSS, and JavaScript. It
 
 ## 📸 Preview
 
-![App Screenshot](./Images/rain.png)
+![App Screenshot](./Images/screenshot_2.png)
 
 ## 🛠️ Technologies Used
 
@@ -61,6 +61,4 @@ const apiKey = "YOUR_API_KEY_HERE";
 - The app currently uses a hardcoded API key for demonstration purposes.
 - Ensure your weather icons match the API response values (e.g., `rain`, `clouds`, etc.).
 
-## 📃 License
 
-This project is open-source and free under the [MIT License](LICENSE).
