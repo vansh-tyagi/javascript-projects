@@ -18,13 +18,14 @@ A classic Snake game built using **HTML**, **CSS**, and **JavaScript**. Control 
 - `Spacebar` – Start the game
 
 ## 📂 Project Structure
-
-├── index.html # HTML layout and game board structure
-├── style.css # Game styles and retro visuals
-├── script.js # Game logic and interactivity
+```
+snake-game/
+├── index.html # Main HTML file
+├── style.css # Styling for the game board and elements
+├── script.js # Game logic (snake movement, food, scoring, etc.)
 └── images/
-└── snake.png # Logo used in the UI
-
+└── snake.png # Logo shown on game start screen
+```
 
 ## 📸 Screenshot
 
